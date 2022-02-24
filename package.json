@@ -1,0 +1,23 @@
+{
+  "name": "appointment-mangement-sys",
+  "version": "1.0.0",
+  "description": "appointment mamagement system from code mentor\r link to the project dettails: https://www.codementor.io/projects/web/appointment-management-system-compu19a0t",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojongclinton/appointment-mangement-sys.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojongclinton/appointment-mangement-sys/issues"
+  },
+  "homepage": "https://github.com/ojongclinton/appointment-mangement-sys#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
