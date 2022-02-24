@@ -1,6 +1,9 @@
 {
   "name": "appointment-mangement-sys",
   "version": "1.0.0",
+  "engines": {
+    "node": "17.x"
+  },
   "description": "appointment mamagement system from code mentor\r link to the project dettails: https://www.codementor.io/projects/web/appointment-management-system-compu19a0t",
   "main": "index.js",
   "scripts": {
@@ -18,8 +21,6 @@
   },
   "homepage": "https://github.com/ojongclinton/appointment-mangement-sys#readme",
   "dependencies": {
-    "body-parser": "^1.19.2",
-    "express": "^4.17.3",
-    "mongoose": "^6.2.3"
+    "express": "^4.17.3"
   }
 }
